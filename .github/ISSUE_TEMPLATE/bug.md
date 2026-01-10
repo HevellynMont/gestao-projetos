@@ -1,3 +1,8 @@
+---
+name: Bug
+about: Erro ou comportamento incorreto
+---
+
 ## Contexto
 Descreva onde e quando o problema ocorre.
 

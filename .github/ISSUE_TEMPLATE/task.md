@@ -1,3 +1,8 @@
+---
+name: Task
+about: Atividade técnica
+---
+
 ## Contexto
 Por que essa tarefa existe?
 

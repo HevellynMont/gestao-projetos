@@ -1,3 +1,8 @@
+---
+name: Spike
+about: Pesquisa, estudo ou investigação técnica
+---
+
 ## Contexto
 Qual problema ou dúvida precisa ser investigada?
 

@@ -1,3 +1,8 @@
+---
+name: Feature
+about: Nova funcionalidade
+---
+
 ## Contexto
 Descreva o cenário atual e o problema.
 
