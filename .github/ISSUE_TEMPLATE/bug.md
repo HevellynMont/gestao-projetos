@@ -18,8 +18,8 @@ O que deveria acontecer?
 3. 
 
 ## Critérios de aceite
-[ ] Dado que ..., quando ..., então ...
-[ ] O problema não deve mais ocorrer.
+- [ ] Dado que ..., quando ..., então ...
+- [ ] O problema não deve mais ocorrer.
 
 ## Observações
 Logs, prints, ambiente, versão, etc.

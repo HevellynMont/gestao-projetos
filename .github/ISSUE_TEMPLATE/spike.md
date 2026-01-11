@@ -13,9 +13,9 @@ O que deve ser respondido ao final da spike?
 Como a pesquisa será feita?
 
 ## Critérios de aceite
-[ ] A documentação foi produzida.
-[ ] As conclusões estão registradas.
-[ ] Próximos passos estão claros.
+- [ ] A documentação foi produzida.
+- [ ] As conclusões estão registradas.
+- [ ] Próximos passos estão claros.
 
 ## Observações
 Links, artigos, provas de conceito.
