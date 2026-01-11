@@ -15,8 +15,8 @@ Relacionado à #
 Depende de #
 
 ## Critérios de aceite atendidos
-- 
-- 
+- [ ]
+- [ ]
 
 ## Impactos
 Algo foi alterado que pode afetar outras partes do sistema?
