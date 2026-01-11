@@ -11,8 +11,8 @@ Qual resultado essa feature deve entregar?
 
 ## Critérios de aceite
 A feature será considerada pronta quando:
-- 
-- 
+[ ]
+[ ]
 
 ## Impactos / Dependências
 Algo será afetado? Existe dependência de outra entrega?
